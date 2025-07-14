@@ -37,18 +37,3 @@ Forecast hourly vehicle flow at junctions using historical traffic data to help 
 
 ## 📤 Final Output
 Predicted traffic volume (`Vehicles`) for the test data saved as `submission.csv`.
-
-## 📁 Folder Structure
-.
-├── notebooks/
-│   └── smart_city_traffic.ipynb
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── output/
-│   └── submission.csv
-├── requirements.txt
-└── README.md
-
-## 🙏 Acknowledgement
-Thanks to [Upscale Campus](https://www.upscalecampus.com) for providing this internship opportunity.
